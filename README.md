@@ -1,3 +1,3 @@
-# Programmering af immersive oplevelser
-Dette er en github der har indeholder projektmidler til faget *Programmering af immersive oplevelser* på MED5
+# P5
+Dette er en github der indeholder projektmidler til vores semesterprojekt på MED5
 
